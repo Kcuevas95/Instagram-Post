@@ -1,0 +1,68 @@
+body {
+    background: black;
+}
+
+.post {
+    height: 650px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+}
+
+
+.fas {
+    margin-left: 15px;
+    float: left;
+}
+
+.fa-ellipsis-v {
+    margin-right: 20px;
+    float: right;
+
+}
+
+#title #title2 {
+    margin-top: 20px;
+    display: flex;
+}
+
+#title {
+    margin-left: 15px;
+}
+
+#title2 {
+    margin-left: 60px;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+.header strong{
+    font-size:15px;
+    font-family: roboto;
+}
+
+.header p{
+    margin: 3px 0px 5px 0px;
+    font-family: roboto;
+}
+
+.paragraph {
+    margin-top: 40px;
+    margin-left: 15px;
+    font-family: roboto;
+    font-size: medium;
+}
+
+.icons {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+
+.fa-bookmark {
+    float: right;
+    margin-right: 20px;
+}
